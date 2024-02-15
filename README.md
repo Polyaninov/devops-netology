@@ -51,6 +51,8 @@
 6. Произведите первоначальную настройку Git, указав своё настоящее имя, чтобы нам было проще общаться, и email (`git config --global user.name` и `git config --global user.email johndoe@example.com`). 
 7. Выполните команду `git status` и запомните результат.
 
+   Otvet 
+
    ![Untitled](https://github.com/Polyaninov/devops-netology/assets/75700701/02c1fb05-81bb-4666-93f6-6692efdfecf8)
 
 
